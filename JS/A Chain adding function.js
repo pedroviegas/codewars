@@ -1,6 +1,6 @@
 /*
 Project: A Chain adding function
-By Pviegas
+By viegas_pedro
 */
 
 var add = function(n) {
